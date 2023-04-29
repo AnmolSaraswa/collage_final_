@@ -1,0 +1,18 @@
+body
+{
+    background-image:url("c.webp");
+   
+}
+
+.copy_right_footer
+{
+position: fixed;
+bottom: 0;
+width: 100%;
+text-align: center;
+}
+
+body:hover
+{
+    background-image:url("d.webp");
+}
